@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React {config.title}
+           {config.title}
         </a>
       </header>
     </div>
